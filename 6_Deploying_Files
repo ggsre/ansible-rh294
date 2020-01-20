@@ -1,0 +1,17 @@
+File Modules 
+Ensuring a File Exists on Managed Hosts 
+Modifying File Attributes 
+Making SELinux File Context Changes Persistent 
+Copying and Editing Files on Managed Hosts 
+Removing a File from Managed Hosts 
+Retrieving the Status of a File on Managed Hosts 
+Synchronizing Files Between the Control Node and Managed Hosts 
+INTRODUCTION TO JINJA2
+Using Delimiters
+BUILDING A JINJA2 TEMPLATE
+DEPLOYING JINJA2 TEMPLATES
+MANAGING TEMPLATED FILES
+Using Loops 
+Using Conditionals 
+
+
