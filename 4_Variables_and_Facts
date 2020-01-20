@@ -1,0 +1,21 @@
+Naming Variables 
+Variables scope 
+Defining Variables in Playbooks
+Using Variables in Playbooks
+Using Directories to Populate Host and Group Variables
+OVERRIDING VARIABLES FROM THE COMMAND LINE
+USING ARRAYS AS VARIABLES
+CAPTURING COMMAND OUTPUT WITH REGISTERED VARIABLES 
+Ansible Vault 
+Creating an Encrypted File 
+Viewing an Encrypted File 
+Editing an Existing Encrypted File 
+Encrypting an Existing File 
+Decrypting an Existing File 
+Changing the Password of an Encrypted File 
+PLAYBOOKS AND ANSIBLE VAULT
+DESCRIBING ANSIBLE FACTS
+ANSIBLE FACTS INJECTED AS VARIABLES
+TURNING OFF FACT GATHERING
+CREATING CUSTOM FACTS
+USING MAGIC VARIABLES 
