@@ -1,0 +1,22 @@
+Deploying Ansible 
+DEFINING THE INVENTORY
+SPECIFYING MANAGED HOSTS WITH A STATIC INVENTORY
+Defining Nested Groups
+Simplifying Host Specifications with Ranges
+Verifying the Inventory 
+Overriding the Location of the Inventory 
+DESCRIBING A DYNAMIC INVENTORY
+CONFIGURING ANSIBLE (ansible.cfg precedence) 
+MANAGING SETTINGS IN THE CONFIGURATION FILE
+CONFIGURING CONNECTIONS
+Connection Settings
+Escalating Privileges
+Non-SSH Connections 
+CONFIGURATION FILE COMMENTS
+Running Ad Hoc Commands
+Performing Tasks with Modules Using Ad Hoc Command
+Running Arbitrary Commands on Managed Hosts
+
+
+
+
