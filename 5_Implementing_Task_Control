@@ -1,0 +1,14 @@
+Simple Loops
+Loops over a List of Hashes or Dictionaries 
+Earlier-Style Loop Keywords
+Using Register Variables with Loops 
+Conditional Task Syntax 
+Testing Multiple Conditions 
+COMBINING LOOPS AND CONDITIONAL TASKS
+ANSIBLE HANDLERS
+Ignoring Task Failure
+Forcing Execution of Handlers after Task Failure
+Specifying Task Failure Conditions 
+Specifying When a Task Reports “Changed” Results 
+Ansible Blocks and Error Handling
+
